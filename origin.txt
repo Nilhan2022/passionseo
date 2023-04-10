@@ -1,0 +1,28 @@
+Uri: https://websiteseo.club/
+File Name: D:\website templates\websiteseo.club\index.htm
+Content Type: text/html
+
+Uri: https://websiteseo.club/faq
+File Name: D:\website templates\websiteseo.club\faq.html
+Content Type: text/html
+
+Uri: https://websiteseo.club/blog
+File Name: D:\website templates\websiteseo.club\blog.html
+Content Type: text/html
+
+Uri: https://websiteseo.club/privacy
+File Name: D:\website templates\websiteseo.club\privacy.html
+Content Type: text/html
+
+Uri: https://websiteseo.club/seo-blog-posts/what-does-seo-mean-to-a-business
+File Name: D:\website templates\websiteseo.club\seo-blog-posts\what-does-seo-mean-to-a-business.html
+Content Type: text/html
+
+Uri: https://websiteseo.club/seo-blog-posts/what-do-you-expect-about-seo-services
+File Name: D:\website templates\websiteseo.club\seo-blog-posts\what-do-you-expect-about-seo-services.html
+Content Type: text/html
+
+Uri: https://websiteseo.club/seo-blog-posts/why-you-need-seo
+File Name: D:\website templates\websiteseo.club\seo-blog-posts\why-you-need-seo.html
+Content Type: text/html
+
